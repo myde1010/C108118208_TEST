@@ -20,4 +20,6 @@
 
 [高科大](https://www.nkust.edu.tw)
 
-![NKUST](https://www.nkust.edu.tw/app/index.php?Plugin=mobile&Action=mobileads&ad=2621 "NKUST")
+[資管系](https://mis.nkust.edu.tw/)
+
+![NKUST](https://mis.nkust.edu.tw/var/file/97/1097/randimg/mobileadv_2619_3898596_90146.png "NKUST")
