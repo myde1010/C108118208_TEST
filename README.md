@@ -19,4 +19,4 @@
 
 [資管系](https://mis.nkust.edu.tw/)
 
-![NKUST](https://mis.nkust.edu.tw/var/file/97/1097/randimg/mobileadv_2619_3898596_90146.png "NKUST")
+![NKUST](https://www.nkust.edu.tw/var/file/0/1000/img/513/182513897.png "NKUST")
