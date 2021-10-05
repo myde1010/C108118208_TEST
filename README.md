@@ -2,6 +2,17 @@
 
 ## 組員：C108118208 楊麗蓉
 
+## 沈翔竣
+
+## 陳風熏
+
+## 蘇裕凱
+
+## 楊翔鴻
+
+## 陳名鈞
+
+
 # 2021_3B
 
 ## 2021_3B
@@ -67,5 +78,5 @@ raw Markdown line up prettily. You can also inline Markdown.
 
 ![Nkust](https://www.nkust.edu.tw/var/file/0/1000/img/513/182513897.png "NKUST")
 
-![fig](nkust2.jpg "海底風光")
+![fig](https://imgur.com/ee453209-663b-415d-82d6-523bd60e350e "海底風光")
 
